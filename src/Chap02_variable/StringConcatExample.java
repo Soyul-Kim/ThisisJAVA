@@ -1,6 +1,6 @@
 package Chap02_variable;
 
-public class StringConcatExaample {
+public class StringConcatExample {
     public static void main(String[] args) {
         //숫자 연산
         int result1 = 10 + 2 + 8;
