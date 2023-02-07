@@ -16,6 +16,7 @@ public class ArrayCreateByValueListExample {
         System.out.println("season[1] : "+season[1]);
         System.out.println();
 
+        //배열 변수 선언과 배열 생성
         int[] scores={83,90,87};
 
         //총합과 평균 구하기
