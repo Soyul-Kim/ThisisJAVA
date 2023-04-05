@@ -9,6 +9,7 @@ public class A {
 
     void method(){
         class B{}
+
         B b=new B();
     }
 }
