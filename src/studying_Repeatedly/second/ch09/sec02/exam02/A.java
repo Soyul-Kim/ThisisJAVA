@@ -17,14 +17,14 @@ public class A {
         static void method2(){
             System.out.println("B method2 실행");
         }
+    }
 
-        void useB(){
-            B b=new B();
-            System.out.println(b.field1);
-            b.method1();
+    void useB(){
+        B b=new B();
+        System.out.println(b.field1);
+        b.method1();
 
-            System.out.println(B.field2);
-            B.method2();
-        }
+        System.out.println(B.field2);
+        B.method2();
     }
 }
