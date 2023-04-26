@@ -1,4 +1,4 @@
-package studying_Repeatedly.second.ch09.sec03;
+package studying_Repeatedly.second.ch09.sec03.exam01;
 
 public class A {
     static class B{}
