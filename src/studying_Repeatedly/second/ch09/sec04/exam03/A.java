@@ -10,5 +10,8 @@ public class A {
                 System.out.println(var);
             }
         }
+
+        B b=new B();
+        b.method2();
     }
 }
