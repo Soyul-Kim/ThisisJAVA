@@ -11,3 +11,6 @@ public class AccuracyExample2 {
         System.out.println("1조각에서 남은 조각: " + (float) result / 10);
     }
 }
+
+
+
